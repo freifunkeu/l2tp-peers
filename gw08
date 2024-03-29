@@ -1,0 +1,3 @@
+key "08a2e5f7271af0e13504e21f0306d80fa80e81d93da85105583ec5ede8490662";
+remote ipv4 "gw08.l2tp.ffeu.de" port 53879;
+float yes;
